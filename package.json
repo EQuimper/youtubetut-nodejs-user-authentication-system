@@ -1,7 +1,0 @@
-{
-  "name": "nodejs-user-authentication-system",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "EQuimper <quimperemanuel@gmail.com>",
-  "license": "MIT"
-}
