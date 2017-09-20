@@ -7,10 +7,14 @@
     "dev": "cross-env NODE_ENV=development nodemon --exec babel-node src/index.js"
   },
   "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.18.1",
     "cross-env": "^5.0.5",
     "express": "^4.15.4",
-    "mongoose": "^4.11.12"
+    "mongoose": "^4.11.12",
+    "mongoose-unique-validator": "^1.0.6",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
