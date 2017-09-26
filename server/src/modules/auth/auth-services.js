@@ -1,5 +1,5 @@
 import AuthModel from './auth-model';
-import { authLocal } from './passport';
+import { authLocal, authJwt } from './passport';
 
 class AuthServices {
   register({ email, password, username }) {
@@ -20,6 +20,10 @@ class AuthServices {
 
   loginMiddleware(req, res, next) {
     return authLocal(req, res, next);
+  }
+
+  jwtMiddleware(req, res, next) {
+    return authJwt(req, res, next);
   }
 }
 

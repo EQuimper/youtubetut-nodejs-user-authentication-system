@@ -17,3 +17,7 @@ Video https://youtu.be/OaiuN6VtR6s
 ## Ep03 - Add jwt when login
 
 Video https://youtu.be/YJZWW_spFHI
+
+## Ep04 - Add passport jwt to auth services
+
+Video https://youtu.be/gQyHDvoBhB0
