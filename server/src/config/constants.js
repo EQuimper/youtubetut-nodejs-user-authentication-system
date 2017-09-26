@@ -5,6 +5,7 @@ const defaultConfig = {
 const config = {
   development: {
     DB_URL: 'mongodb://localhost/user-authentication-dev',
+    JWT_SECRET: 'helloworld',
   },
   production: {
     DB_URL: 'mongodb://localhost/user-authentication-prod',
