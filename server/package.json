@@ -11,6 +11,7 @@
     "body-parser": "^1.18.1",
     "cross-env": "^5.0.5",
     "express": "^4.15.4",
+    "jsonwebtoken": "^8.0.1",
     "mongoose": "^4.11.12",
     "mongoose-unique-validator": "^1.0.6",
     "passport": "^0.4.0",

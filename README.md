@@ -13,3 +13,7 @@ Video: https://youtu.be/rhMqP5E7wH0
 ## Ep02 - Add validation to user and register method
 
 Video https://youtu.be/OaiuN6VtR6s
+
+## Ep03 - Add jwt when login
+
+Video https://youtu.be/YJZWW_spFHI
